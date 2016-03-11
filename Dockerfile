@@ -1,4 +1,4 @@
-FROM FROM logankoester/archlinux
+FROM logankoester/archlinux
 MAINTAINER Adam Courts <adam.courts1@gmail.com>
 
 VOLUME [ "/source" ]
